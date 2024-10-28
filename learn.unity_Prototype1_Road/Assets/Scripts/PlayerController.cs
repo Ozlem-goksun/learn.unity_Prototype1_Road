@@ -6,9 +6,9 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    public float speed = 0;
-    public float turnSpeed = 0; // for horizontal moving
-    public float horizontalInput;
+    private float speed = 25.0f;
+    private float turnSpeed = 20.0f; // for horizontal moving
+    private float horizontalInput;
 
     // Start is called before the first frame update
     void Start()
