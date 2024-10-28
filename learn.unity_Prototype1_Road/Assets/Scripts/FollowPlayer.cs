@@ -23,7 +23,7 @@ public class FollowPlayer : MonoBehaviour
 
     }
 
-    private void LateUpdate()
+    void LateUpdate()
     {
         transform.position = player.transform.position + offset; //To make camera's move much smooth.
     }
