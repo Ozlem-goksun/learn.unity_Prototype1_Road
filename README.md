@@ -1,4 +1,4 @@
-# [Unity Learn](https://learn.unity.com)/[Junior Programming Pathway](https://learn.unity.com/pathway/junior-programmer) UNIT 1 </br>
+# [Unity Learn](https://learn.unity.com)/[Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer) UNIT 1 </br>
 
 ## Prototype 1
 ### To try out this small, tiny, 🤏 and even microscopic game, click on the GIF below.
